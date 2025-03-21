@@ -1,5 +1,4 @@
-<img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.jQ6RHBsieCA9xrU8lB0IswHaIS?w=178&h=199&c=7&r=0&o=5&dpr=1.5&pid=1.7&FORM=IRPRST&ck=CBF3AE5C49F0ED5B6ACB726DEF3C350C&selectedIndex=0&itb=0
-" width="200" alt="蟹老板形象">
+<img src="https://pic.baike.soso.com/ugc/baikepic2/6080/20220321150118-1600325436_png_862_965_588510.jpg/0" width="200" alt="蟹老板形象">
  
 大家好，我是蟹老板，我的身份是蟹堡王餐厅的创始人兼CEO。以下是我的自我介绍：
  
