@@ -58,7 +58,7 @@ print(f"今日利润：${profit}")
 执行这段代码会输出： 今日利润：$800 
  
 我最喜欢的环境管理工具是conda
-<img src="https://github.com/m00476/myj123/blob/master/1.png" width="800" alt="财务报表截图">
+<img src="https://github.com/m00476/myj123/blob/master/%E6%88%AA%E5%9B%BE1.png" width="800" alt="财务报表截图">
  
 我可以在IDE上使用我建立的虚拟环境
  
