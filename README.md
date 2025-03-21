@@ -1,4 +1,5 @@
-<img src="https://cn.bing.com/images/search?view=detailV2&ccid=jQ6RHBsi&id=A7143449D45ED1E3103E98C67FF564EDA86DA5DB&thid=OIP.jQ6RHBsieCA9xrU8lB0IswHaIS&mediaurl=https%3a%2f%2fpic.baike.soso.com%2fugc%2fbaikepic2%2f6080%2f20220321150118-1600325436_png_862_965_588510.jpg%2f0&exph=965&expw=862&q=%e8%9f%b9%e8%80%81%e6%9d%bf%e5%9b%be%e7%89%87&simid=608037885437945666&FORM=IRPRST&ck=CBF3AE5C49F0ED5B6ACB726DEF3C350C&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0" width="200" alt="蟹老板形象">
+<img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.jQ6RHBsieCA9xrU8lB0IswHaIS?w=178&h=199&c=7&r=0&o=5&dpr=1.5&pid=1.7&FORM=IRPRST&ck=CBF3AE5C49F0ED5B6ACB726DEF3C350C&selectedIndex=0&itb=0
+" width="200" alt="蟹老板形象">
  
 大家好，我是蟹老板，我的身份是蟹堡王餐厅的创始人兼CEO。以下是我的自我介绍：
  
@@ -57,11 +58,11 @@ print(f"今日利润：${profit}")
  
 执行这段代码会输出： 今日利润：$800 
  
-我最喜欢的财务管理工具是conda 
+我最喜欢的环境管理工具是conda
 <img src="https://github.com/m00476/myj123/blob/master/1.png" width="800" alt="财务报表截图">
  
-我会用商业智能看板监控经营数据
+我可以在IDE上使用我建立的虚拟环境
  
 <img src="https://github.com/m00476/myj123/blob/master/2.png" width="800" alt="商业看板截图">
  
-（注：部分图片链接可能需要调整，建议替换为实际存在的蟹老板形象及财务相关图片）.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+（h）.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
